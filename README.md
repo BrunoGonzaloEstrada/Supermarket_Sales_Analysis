@@ -12,22 +12,40 @@ Una cadena de supermercados online que opera en Brasil busca obtener insights so
 1. **Ventas Totales por Año:**
    - ¿Cuáles son las ventas totales por año?
    - ¿Qué año tuvo el mejor desempeño?
+  
+   ![problema_1](https://github.com/BrunoGonzaloEstrada/Supermarket_Sales_Analysis/assets/148375715/066283c5-ebdc-4ea1-84d0-86fb0b1f0c9e)
+
 
 2. **Top 7 Productos con Mayor Ganancia:**
    - ¿Cuáles son los 7 productos que generaron mayores ganancias durante todo el período?
+  
+     ![problema_2](https://github.com/BrunoGonzaloEstrada/Supermarket_Sales_Analysis/assets/148375715/2ee8af85-b746-4262-9fe2-19b5baf6eebc)
+
 
 3. **Análisis de Ventas por Región y Año:**
    - Si separamos las ventas totales por año y por regiones, ¿qué insights podemos obtener de nuestras ventas?
+  
+     ![problema_3](https://github.com/BrunoGonzaloEstrada/Supermarket_Sales_Analysis/assets/148375715/b83572df-7d98-45e3-a533-7cd226cd5535)
+
 
 4. **Método de Envío más Utilizado:**
    - ¿Cuál es el método de envío más utilizado por los clientes del supermercado?
    - ¿Es proporcional para clientes B2B y B2C?
+  
+     ![problema_4](https://github.com/BrunoGonzaloEstrada/Supermarket_Sales_Analysis/assets/148375715/ee0f8812-b717-493a-ae85-324091fe5b30)
+
 
 5. **Ventas Totales por Trimestre en el Estado de São Paulo:**
    - ¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?
+  
+     ![problema_5](https://github.com/BrunoGonzaloEstrada/Supermarket_Sales_Analysis/assets/148375715/5aaf446e-252a-484c-ba0b-0417502b9766)
+
 
 6. **Top 5 Ciudades con Mayor Cantidad de Pedidos:**
    - ¿Cuál es el top 5 de las ciudades con la mayor cantidad de pedidos?
+  
+     ![problema_6](https://github.com/BrunoGonzaloEstrada/Supermarket_Sales_Analysis/assets/148375715/927d05b4-8f6a-4eea-b16f-52fdedffc900)
+
 
 ## Configuración del Ambiente y Obtención de Datos
 
